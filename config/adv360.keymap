@@ -91,7 +91,7 @@
 &kp ESCAPE     &kp LS(N1)  &kp LS(N2)    &kp LS(N3)    &kp LS(N4)     &kp LS(N5)  &kp LS(NUMBER_6)                                                             &mo 5                           &none      &kp LS(N7)  &kp LS(N8)     &kp LS(N9)    &kp LS(N0)         &kp LS(EQUAL)
 &kp LS(MINUS)  &kp LS(Q)   &kp LS(G)     &kp LS(M)     &kp LS(L)      &kp LS(W)   &kp RA(TAB)                                                                  &mt RIGHT_BRACE LEFT_BRACE      &kp LS(Y)  &kp LS(F)   &kp LS(U)      &kp LS(B)     &kp LS(SEMICOLON)  &kp LS(BSLH)
 &kp LS(TAB)    &kp LS(D)   &kp LS(S)     &kp LS(T)     &kp LS(N)      &kp LS(R)   &kp LC(LA(F6))    &kp LEFT_ALT  &to 5           &kp CAPSLOCK  &kp RCTRL      &mt RIGHT_BRACKET LEFT_BRACKET  &kp LS(I)  &kp LS(A)   &kp LS(E)      &kp LS(O)     &kp LS(H)          &kp LS(SQT)
-&mo 0          &kp LS(Z)   &kp LS(X)     &kp LS(C)     &kp LS(V)      &kp LS(J)                                   &kp RETURN      &lt 5 PG_UP                                                  &kp LS(K)  &kp LS(P)   &kp LS(COMMA)  &kp LS(DOT)   &kp LS(FSLH)       &kp RSHFT
+&trans         &kp LS(Z)   &kp LS(X)     &kp LS(C)     &kp LS(V)      &kp LS(J)                                   &kp RETURN      &lt 5 PG_UP                                                  &kp LS(K)  &kp LS(P)   &kp LS(COMMA)  &kp LS(DOT)   &kp LS(FSLH)       &kp RSHFT
 &mkp RCLK      &kp GRAVE   &kp LEFT_WIN  &kp LS(LEFT)  &kp LS(RIGHT)              &kp SPACE         &mkp LCLK     &kp LCTRL       &kp DELETE    &kp LS(ENTER)  &kp SPACE                                  &kp LS(UP)  &kp LS(DOWN)   &kp LS(LBKT)  &kp LS(RBKT)       &mo 4
             >;
         };
