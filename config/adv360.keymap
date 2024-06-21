@@ -66,6 +66,11 @@
             bindings = <&kp BACKSPACE>;
             key-positions = <46 65>;
         };
+
+        SignatureChange {
+            bindings = <&kp RC(RA(F6))>;
+            key-positions = <67 34>;
+        };
     };
 
     keymap {
@@ -73,7 +78,7 @@
 
         QGMLWYDefault {
             bindings = <
-&kp ESCAPE  &kp N1     &kp N2        &kp N3    &kp N4     &kp N5  &kp NUMBER_6                                                         &kp RC(RA(DELETE))              &none  &kp N7  &kp N8     &kp N9    &kp N0         &kp EQUAL
+&kp ESCAPE  &kp N1     &kp N2        &kp N3    &kp N4     &kp N5  &kp NUMBER_6                                                         &mo 4                           &none  &kp N7  &kp N8     &kp N9    &kp N0         &kp EQUAL
 &kp MINUS   &kp Q      &kp G         &kp M     &kp L      &kp W   &kp RA(TAB)                                                          &mt RIGHT_BRACE LEFT_BRACE      &kp Y  &kp F   &kp U      &kp B     &kp SEMICOLON  &kp BSLH
 &kp TAB     &kp D      &kp S         &kp T     &kp N      &kp R   &kp F2        &kp LEFT_ALT  &to 4           &kp CAPSLOCK  &kp RCTRL  &mt RIGHT_BRACKET LEFT_BRACKET  &kp I  &kp A   &kp E      &kp O     &kp H          &kp SQT
 &kp LSHFT   &kp Z      &kp X         &kp C     &kp V      &kp J                               &kp RETURN      &lt 5 PG_UP                                              &kp K  &kp P   &kp COMMA  &kp DOT   &kp FSLH       &kp RSHFT
